@@ -1,0 +1,9 @@
+[Plugin]
+Loader=python3
+Module=html_template
+IAge=3
+Name=html template
+Description=A Python plugin to create basic html template 
+Authors=Rio Nyx
+Copyright=Copyright © 2020 Rio Nyx <rionyx67@gmail.com>
+Website=http://www.gedit.org
